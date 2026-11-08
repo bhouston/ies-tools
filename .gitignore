@@ -17,3 +17,4 @@ packages/docs/static/viewer/
 # Agent tooling
 .claude/
 .codex/
+.cursor/
