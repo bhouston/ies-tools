@@ -13,3 +13,7 @@ packages/docs/ies.opencli.json
 packages/docs/docs/api/
 packages/docs/docs/cli-reference/
 packages/docs/static/viewer/
+
+# Agent tooling
+.claude/
+.codex/
